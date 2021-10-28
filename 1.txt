@@ -1,3 +1,4 @@
 noi dung 1
-
 sua loiabc
+- lenh git checkout
+
